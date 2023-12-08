@@ -1,0 +1,5 @@
+// The js object is a collection of key value-pais, similar to a map, dictonary, or hash table in other programming languanges
+// Anything that is no a js primitive is an object
+const object = {
+    hello: 'world'
+}
